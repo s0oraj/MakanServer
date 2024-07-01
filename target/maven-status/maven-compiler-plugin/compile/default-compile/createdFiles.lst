@@ -1,0 +1,14 @@
+in\rentify\controller\PropertyController.class
+in\rentify\service\UserService.class
+in\rentify\model\Property.class
+in\rentify\config\CorsConfig.class
+in\rentify\service\PropertyService.class
+in\rentify\ServletInitializer.class
+in\rentify\dao\UserRepository.class
+in\rentify\controller\UserController.class
+in\rentify\dto\LoginDetails.class
+in\rentify\dto\UserDTO.class
+in\rentify\model\User.class
+in\rentify\RentifyServerApplication.class
+in\rentify\config\SecurityConfig.class
+in\rentify\dao\PropertyRepository.class
